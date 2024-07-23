@@ -53,7 +53,7 @@ Proje ile ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [cen
 
 ---
 ## Ekran Görüntüleri
-![Ana Sayfa](desktop.gif)
+![Ana Sayfa](Desktop.gif)
 
 
 
