@@ -5,6 +5,7 @@ Bu proje, HTML, Bootstrap, CSS,  ve JavaScript kullanılarak hazırlanmıştır,
 ## Özellikler
 
 - **Responsive Tasarım**: Farklı cihaz boyutlarında sorunsuz çalışır.
+- ** Kaydırılabilir görseller.
 
 ## Kullanılan Teknolojiler
 
